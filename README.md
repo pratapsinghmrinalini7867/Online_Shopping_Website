@@ -1,8 +1,8 @@
 # Online_Shopping_Website
 This is an ecommerce website where user can shop online, do online payment, track orders, record of previous orders, and user profile. User authentication is done and a forgot password facility is provided as well in case user forgot their password. I had used React and Material UI to make a better UI & UX and for backend I have used Node JS and Express JS. I had worked on Nodemailer to send mails on Registration or in case of forgot password.I also worked on stats on admin panel so that admin can keep a watch on website. Further I will add some more functionality in future like User have a return option for product and can add reviews.
-https://user-images.githubusercontent.com/57532977/129147850-482d4c83-0ade-48bd-8a98-e81bca4266ad.png
-https://user-images.githubusercontent.com/57532977/129147859-99399b71-9ff2-404c-b8bd-52d4effb8610.png
-https://user-images.githubusercontent.com/57532977/129147872-2b12b726-3de6-4111-a8b6-dd0c9835bdee.png
+![Screenshot (124)](https://user-images.githubusercontent.com/57532977/129147850-482d4c83-0ade-48bd-8a98-e81bca4266ad.png)
+![Screenshot (125)](https://user-images.githubusercontent.com/57532977/129147859-99399b71-9ff2-404c-b8bd-52d4effb8610.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/57532977/129147872-2b12b726-3de6-4111-a8b6-dd0c9835bdee.png)
 
 ## How to Install the Project
 1. Clone project on your local pc.

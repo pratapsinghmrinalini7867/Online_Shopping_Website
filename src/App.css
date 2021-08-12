@@ -1,0 +1,190 @@
+.box{
+    margin: 80px 32%;
+}
+body{
+    background-color: rgb(255, 246, 253) ;
+
+}
+.box h1{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.dash{
+    width: 200px;
+    height: 100px;
+    float: right;
+    margin-left: 15px;
+    color:rgb(248, 130, 222) !important;
+}
+.cont{
+    text-align: center;
+    color: Black;
+    /* display: inline-block; */
+}
+#dash2{
+    float: left;
+    display: inline;
+    position: fixed;
+    margin-right: 20px;
+    margin-top: 60px;
+}
+.productgrid{
+    float:right;
+    padding-right: 160px;
+    display: inline;
+    margin-top: 70px;
+}
+.product{
+    width: 600px;
+}
+.dashcontent{
+    padding:  30px 30px 5px 30px !important;
+    margin-top: 70px;
+    margin-left: 300px;
+}
+.vmenu{
+    width: 100%;
+    padding: 10px !important;
+    text-align: start;
+    justify-content: left !important;
+    padding-left: 70px !important;
+    color: rgb(238, 209, 250) !important;
+    align-items: end !important;
+
+}
+.vmenu a{
+    /* color: darkviolet; */
+    text-decoration: none;
+    font-weight: 600;
+    text-align:start !important;
+    margin-left: 10px;
+    height: 30px;
+    /* align-items: end !important; */
+}
+.navbar{
+    /* background-color: white !important; */
+    background-color: rgb(247, 77, 182) !important;
+    position: absolute;
+    height: 60px !important;
+}
+.navbar a{
+    color: white !important;
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: none;
+}
+.right{
+    /* padding-left: 1000px ; */
+    float: right !important;
+    margin-left: 1000px !important;
+}
+.right a{
+    font-size: large;
+}
+
+/* dashboard */
+.button{
+    color:white;
+    text-decoration: none;
+    padding: 2px;
+    background-color: rgb(247, 77, 182) !important;
+    text-shadow: 1px 1px grey;
+    color: white !important;
+    width: 280px;
+    align-items: center;
+    margin-left: 8px;
+}
+.button a{
+    color: white !important;
+    font-size: 15px;
+}
+.userdetails{
+    padding-right: 150px;
+    text-align: center;
+    float: right;
+    width: 90%;
+    margin-top: 70px;
+}
+.userdetails .details{
+    margin-left: 300px !important;
+}
+.vbox{
+    padding-bottom: 0px !important;
+}
+.cont{
+    font-size: 20px;
+    font-weight: 400;
+    display: inline;
+    margin: 5px;
+}
+.MultiToolbar-regular,#toolbar{
+    display: none;
+}
+.batch{
+    width: 250px;
+    height: 199px;
+    text-align: center;
+    color: darkviolet;
+    background-color: rgb(250, 228, 248);
+    font-size: 1rem;
+    font-weight: 400;
+    padding-top: 5px;
+}
+.adminid{
+    width: 250px;
+    text-align: center;
+    color: darkviolet;
+    background-color: rgb(248, 200, 244);
+    font-size: 1rem;
+    font-weight: 400;
+}
+.graph{
+    width: 500px !important;
+    height: 330px;
+    margin-left: 10px !important;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 60px;
+    padding-left: 20px;
+    align-items: center;
+}
+#stats{
+    width: 300px !important;
+    height: 300px !important;
+}
+.graph2{
+    height: 330px;
+    width: 300px;
+    float: right;
+    display: inline;
+    margin-top: 20px;
+    margin-left: 30px !important;
+}
+.coltwo{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.graph3{
+    height: 120px;
+    width: 260px;
+    float: right;
+    display: inline;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+/* login */
+.link{
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+}
+.btn{
+    background-color: rgb(247, 77, 182) !important;
+    color: white !important;
+    font-size: 15px;
+    margin-top: 5px !important;
+}

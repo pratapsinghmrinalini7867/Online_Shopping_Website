@@ -3,9 +3,9 @@ This is an e-commerce website where user can shop online, do online payment, tra
 
 ![IMG_20210814_084140](https://user-images.githubusercontent.com/57532977/129432532-b0263d95-6dd5-4899-9535-80f856ea8d77.jpg)
 
-![Screenshot (125)](https://user-images.githubusercontent.com/57532977/129147859-99399b71-9ff2-404c-b8bd-52d4effb8610.png)
+![IMG_20210814_084412](https://user-images.githubusercontent.com/57532977/129432580-7c50eec0-050e-432f-96a1-0f621bd40806.jpg)
 
-![Screenshot (126)](https://user-images.githubusercontent.com/57532977/129147872-2b12b726-3de6-4111-a8b6-dd0c9835bdee.png)
+![IMG_20210814_084429](https://user-images.githubusercontent.com/57532977/129432583-8cb2dc37-1116-4cbd-99a8-44e4933073bd.jpg)
 
 ## How to Install the Project
 1. Clone project on your local pc.
